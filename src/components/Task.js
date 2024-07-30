@@ -5,6 +5,7 @@ import moment from "moment"
 import 'moment/locale/pt-br'
 
 export default props => {
+    //teste
     return (
         <View style={styles.container}>
             <TouchableWithoutFeedback onPress={() => alert("Olá")}>
